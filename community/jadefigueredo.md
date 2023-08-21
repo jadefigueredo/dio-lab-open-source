@@ -11,6 +11,9 @@ No momento estou estudando HTML, CSS, JavaScript e Python, faço parte da PyLadi
 ![CSS3](https://img.shields.io/badge/CSS3-E6E6FA?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E6E6FA?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-E6E6FA?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-E6E6FA?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github)
+
 
 
 ## Github Stats
